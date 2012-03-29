@@ -1,0 +1,248 @@
+TMarch29
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/Info.plist March29/March29-Info.plist
+cProcessPCH /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.pth March29/March29-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.o /Users/admin/Documents/Project/March29/March29/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.o /Users/admin/Documents/Project/March29/March29/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.o /Users/admin/Documents/Project/March29/March29/View.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.o /Users/admin/Documents/Project/March29/March29/LittleView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29 normal i386
+cGenerateDSYMFile /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29
+cCopyStringsFile /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/en.lproj/InfoPlist.strings March29/en.lproj/InfoPlist.strings
+cTouch /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F6B5D530000000000000110
+t1332436307
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F6A3A760000000000244490
+t1332361846
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F6A3A770000000000353830
+t1332361847
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F6A3A7D0000000000905E40
+t1332361853
+s9461312
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.o
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.o
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/March29.LinkFileList
+c000000004F74DCFD000000000000027F
+t1333058813
+s639
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.o
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.pth
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/Info.plist
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/PkgInfo
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/admin/Documents/Project/March29/March29/KeAppDelegate.m
+c000000004F74DCFC00000000000008B7
+t1333058812
+s2231
+
+N/Users/admin/Documents/Project/March29/March29/LittleView.m
+c000000004F74DCFC0000000000000468
+t1333058812
+s1128
+
+N/Users/admin/Documents/Project/March29/March29/March29-Prefix.pch
+c000000004F74DB45000000000000013D
+t1333058373
+s317
+
+N/Users/admin/Documents/Project/March29/March29/View.m
+c000000004F74DC8300000000000005FB
+t1333058691
+s1531
+
+N/Users/admin/Documents/Project/March29/March29/en.lproj/InfoPlist.strings
+c000000004F74DB45000000000000002D
+t1333058373
+s45
+
+N/Users/admin/Documents/Project/March29/March29/main.m
+c000000004F74DB450000000000000154
+t1333058373
+s340
+
+NMarch29/March29-Info.plist
+c000000004F74DB450000000000000493
+t1333058373
+s1171
+
+CBuild AST from /Users/admin/Documents/Project/March29/March29/KeAppDelegate.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/March29/March29/LittleView.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/March29/March29/View.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/March29/March29/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7556eb7c1425b541^d6c70b7d1425b541^---0#1#0#--18"Check dependencies36"72AF0504-9FAC-48C1-B539-237E686BE15C-
+
+CCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.o /Users/admin/Documents/Project/March29/March29/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354751613.507266
+e354751613.672931
+r1
+xCompileC
+xBuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.o
+x/Users/admin/Documents/Project/March29/March29/KeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/admin/Documents/Project/March29/March29/KeAppDelegate.m5585827d1425b541^a855ac7d1425b541^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/admin/Documents/Project/March29/March29/KeAppDelegate.m0000000000000000^3649"CompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.o March29/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/March29    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-generated-files.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-own-target-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-all-target-headers.hmap -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-project-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources/i386 -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources -F/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.d --serialize-diagnostics /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.dia -c /Users/admin/Documents/Project/March29/March29/KeAppDelegate.m -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/KeAppDelegate.o36"AC1943B1-D290-469F-877F-5CA9C738E070-
+
+CCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.o /Users/admin/Documents/Project/March29/March29/LittleView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354751613.509669
+e354751613.672950
+r1
+xCompileC
+xBuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.o
+x/Users/admin/Documents/Project/March29/March29/LittleView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/admin/Documents/Project/March29/March29/LittleView.m0af8857d1425b541^185fac7d1425b541^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/admin/Documents/Project/March29/March29/LittleView.m0000000000000000^3631"CompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.o March29/LittleView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/March29    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-generated-files.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-own-target-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-all-target-headers.hmap -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-project-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources/i386 -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources -F/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.d --serialize-diagnostics /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.dia -c /Users/admin/Documents/Project/March29/March29/LittleView.m -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/LittleView.o36"159A7DAA-F8BC-46E4-A9DF-CE03DDECEC97-
+
+CCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.o /Users/admin/Documents/Project/March29/March29/View.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354751613.507441
+e354751613.625400
+r1
+xCompileC
+xBuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.o
+x/Users/admin/Documents/Project/March29/March29/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/admin/Documents/Project/March29/March29/View.m59da857d1425b541^672aa07d1425b541^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/admin/Documents/Project/March29/March29/View.m0000000000000000^3595"CompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.o March29/View.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/March29    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-generated-files.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-own-target-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-all-target-headers.hmap -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-project-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources/i386 -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources -F/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.d --serialize-diagnostics /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.dia -c /Users/admin/Documents/Project/March29/March29/View.m -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/View.o36"AC35FA94-7371-4CD4-9581-EF5881274724-
+
+CCompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.o /Users/admin/Documents/Project/March29/March29/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354751613.497616
+e354751613.569920
+r1
+xCompileC
+xBuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.o
+x/Users/admin/Documents/Project/March29/March29/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/admin/Documents/Project/March29/March29/main.m3ee8817d1425b541^15e6917d1425b541^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/admin/Documents/Project/March29/March29/main.m0000000000000000^3595"CompileC BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.o March29/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/March29    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-generated-files.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-own-target-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-all-target-headers.hmap -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-project-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources/i386 -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources -F/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.dia -c /Users/admin/Documents/Project/March29/March29/main.m -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/main.o36"BB662695-DDD0-43A6-9CDA-F0195C4D87CF-
+
+CCopyStringsFile /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/en.lproj/InfoPlist.strings March29/en.lproj/InfoPlist.strings
+s354751613.802318
+e354751613.806112
+r1
+xCopyStringsFile
+x/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/en.lproj/InfoPlist.strings
+xMarch29/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy March29/en.lproj/InfoPlist.stringsb58bcd7d1425b541^3466ce7d1425b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/admin/Documents/Project/March29/March29/en.lproj/InfoPlist.strings0000000000000000^633"CopyStringsFile BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/en.lproj/InfoPlist.strings March29/en.lproj/InfoPlist.strings    cd /Users/admin/Documents/Project/March29    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/en.lproj -- March29/en.lproj/InfoPlist.strings36"75C58153-B7F5-4957-A64E-B8A353E2999F-
+
+CGenerateDSYMFile /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29
+s354751613.754765
+e354751613.794496
+r1
+xGenerateDSYMFile
+x/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM
+x/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Generating /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM336bc17d1425b541^2b4bcc7d1425b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM000000000080d041^750"GenerateDSYMFile BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29    cd /Users/admin/Documents/Project/March29    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29 -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app.dSYM36"7F70760D-8DA9-4C3F-A743-2CD807B450BA-
+
+CLd /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29 normal i386
+s354751613.679781
+e354751613.747417
+r1
+xLd
+x/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29e7c2b07d1425b541^b971bf7d1425b541^---0#0#0#--1311"Ld BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March29 normal i386    cd /Users/admin/Documents/Project/March29    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator -F/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator -filelist /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/Objects-normal/i386/March29.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/March2936"AA9FE912-A464-4308-B566-4B84E000C1E1-
+
+CProcessInfoPlistFile /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/Info.plist March29/March29-Info.plist
+s354751613.065501
+e354751613.081004
+r1
+xProcessInfoPlistFile
+x/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/Info.plist
+xMarch29/March29-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process March29/March29-Info.plistcadc107d1425b541^349d197d1425b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/admin/Documents/Project/March29/March29/March29-Info.plist0000000000000000^737"ProcessInfoPlistFile BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/Info.plist March29/March29-Info.plist    cd /Users/admin/Documents/Project/March29    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility March29/March29-Info.plist -genpkginfo /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app/Info.plist36"13F026F8-9291-43F8-B63C-3D692C134572-
+
+CProcessPCH /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.pth March29/March29-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354751613.095825
+e354751613.490459
+r1
+xProcessPCH
+x/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.pth
+xMarch29/March29-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile March29/March29-Prefix.pch8aad187d1425b541^ef8d7d7d1425b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/admin/Documents/Project/March29/March29/March29-Prefix.pch0000000000000000^3490"ProcessPCH BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.pth March29/March29-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/March29    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-generated-files.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-own-target-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-all-target-headers.hmap -iquote /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/March29-project-headers.hmap -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources/i386 -I/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/March29.build/Debug-iphonesimulator/March29.build/DerivedSources -F/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.dia -c /Users/admin/Documents/Project/March29/March29/March29-Prefix.pch -o /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.pth -MMD -MT dependencies -MF /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Intermediates/PrecompiledHeaders/March29-Prefix-gqjsywfnmmlapdffhdmwubswlbji/March29-Prefix.pch.d36"F5418329-BCE0-4956-8283-A155DA3C51AF-
+
+CProcessPCH /Users/admin/Documents/Project/March29/BuildOutput/March29/Index/PrecompiledHeaders/March29-Prefix-gbqemvslashnmtcratxzhoghprtw_ast/March29-Prefix.pch.pth March29/March29-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app
+s354751613.814375
+e354751613.849596
+r1
+xTouch
+x/Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Touch /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app889ed07d1425b541^2d93d97d1425b541^---0#0#0#--446"Touch BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app    cd /Users/admin/Documents/Project/March29    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/admin/Documents/Project/March29/BuildOutput/March29/Build/Products/Debug-iphonesimulator/March29.app36"C6A9B109-B424-4E97-90E7-EB34DB49D922-
+
